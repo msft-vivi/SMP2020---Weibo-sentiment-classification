@@ -1,0 +1,1 @@
+python add_tokens_to_bert.py --pre_train_path roberta_wwm_ext_large --output_dir pretrain_model/roberta_large_added_tokens --log_dir roberta_add_tokens.log
