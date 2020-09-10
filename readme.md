@@ -4,7 +4,7 @@
 
 ### Rank
 * Finally Rank 6
-* 如果觉得有帮助，请不要吝啬您的star
+* **如果觉得有帮助，请不要吝啬您的star**
 
 ### Our ideas
 * 以roberta，roberta_wwm_ext,uer提供的mixed模型为预训练基础，在上面进行模型的微调得到baseline，之后根据任务的特点进行改进，最后对多个模型进行投票集成。
