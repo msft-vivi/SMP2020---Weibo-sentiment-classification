@@ -1,5 +1,6 @@
 ### SMP-2020 Weibo sentiment classification 
-
+* []("./img/SMP2020.png")
+* []("./img/result.png")
 ### Our ideas
 * 以roberta，roberta_wwm_ext,uer提供的mixed模型为预训练基础，在上面进行模型的微调得到baseline，之后根据任务的特点进行改进，最后对多个模型进行投票集成。
 
@@ -26,5 +27,5 @@
 * [roberta](https://huggingface.co/models) 
 * [uer_mixed_large](https://github.com/dbiir/UER-py) 
 
-### Contact
-* 可以发我邮箱，bravezhangw@163.com
+### Contact Us
+* bravezhangw@163.com
