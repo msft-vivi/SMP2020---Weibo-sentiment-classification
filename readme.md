@@ -1,6 +1,6 @@
 ### SMP-2020 Weibo sentiment classification 
 ![任务介绍](img/SMP2020.png)
-![评测结果](img/result.png)
+<!-- ![评测结果](img/result.png) -->
 
 ### Rank
 * Finally Rank 6
